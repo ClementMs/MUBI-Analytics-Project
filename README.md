@@ -1,7 +1,7 @@
 # MUBI-Analytics-Project
 Crunching Movie Data with MUBI API, SQLite &amp; Python
 
-# What is MUBI?
+## What is MUBI?
 
 - MUBI could be described as the "Netflix for art movies".
 
@@ -15,7 +15,7 @@ Crunching Movie Data with MUBI API, SQLite &amp; Python
 
 - Over time, MUBI has become a distributor as well as a producer.
 
-# Github repository
+## Github repository
 
 - The Github repository contains the 3 Python files used to retrieve movie data with MUBI API. 
 
