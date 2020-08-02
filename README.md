@@ -17,7 +17,7 @@ Crunching Movie Data with MUBI API, SQLite &amp; Python
 
 ## Github repository
 
-- The Github repository contains the 3 Python files used to retrieve movie data with MUBI API. 
+- The Github repository contains the 3 Python files used to retrieve movie data with MUBI API in April 2020 during the Great Lockdown. 
 
 - Kaggle notebook showing business insights extracted from MUBI SQLite DB available here: https://www.kaggle.com/clementmsika/movie-lovers-on-mubi-eda
 
