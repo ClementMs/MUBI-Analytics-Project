@@ -1,4 +1,4 @@
-# Mubi-Analytics-Project
+# MUBI-Analytics-Project
 Crunching Movie Data with MUBI API, SQLite &amp; Python
 
 Kaggle notebook showing business insights extracted from Mubi SQLite DB available here: https://www.kaggle.com/clementmsika/movie-lovers-on-mubi-eda
